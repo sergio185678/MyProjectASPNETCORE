@@ -13,7 +13,7 @@ Creditos: https://somee.com/
 
 ![image](https://github.com/sergio185678/MyProjectASPNETCORE/assets/67492035/67cf0cdd-9570-4497-a89e-bb491910b945)
 
-Link del repositorio del frontend:
+Link del repositorio del frontend: https://github.com/sergio185678/FrontendBaseAngularWithASPNETCORE
 
 ## Estructura del Proyecto:
 
