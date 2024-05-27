@@ -8,7 +8,7 @@ Usuario con cargo administrador:
   - Email: sergio16@gmail.com
   - Contraseña: 123
 
-Link desplegado del backend: [[https://myprojectjavaspringboot.onrender.com](https://myprojectjavaspringboot.onrender.com/swagger-ui/index.html)](http://myprojectapinetcore.somee.com/swagger/index.html)
+Link desplegado del backend: (http://myprojectapinetcore.somee.com/swagger/index.html)
 Creditos: https://somee.com/
 
 ![image](https://github.com/sergio185678/MyProjectASPNETCORE/assets/67492035/67cf0cdd-9570-4497-a89e-bb491910b945)
